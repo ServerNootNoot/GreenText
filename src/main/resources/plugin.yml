@@ -1,0 +1,7 @@
+name: GreenText
+version: '${version}'
+main: lol.nightshade.greentext.GreenText
+prefix: GreenText
+load: STARTUP
+authors: [therealserver]
+description: Adds greentext and orangetext to Spigot.
